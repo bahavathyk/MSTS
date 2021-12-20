@@ -9,4 +9,4 @@ The code runs the data from the UEA multivariate time series archive and comapre
 
 When using this code, kindly cite the following paper:
 
-Kathirgamanathan, B., Cunningham, P.: Correlation based feature subset selection for multivariate time-series data. arXiv preprint arXiv:2112.03705 (2021)
+Kathirgamanathan, B., Cunningham, P.: Correlation based feature subset selection for multivariate time-series data. arXiv preprint arXiv:2112.03705 (2021) https://arxiv.org/pdf/2112.03705.pdf
