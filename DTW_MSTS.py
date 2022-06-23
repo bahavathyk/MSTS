@@ -33,8 +33,8 @@ from MSFunctions.Load_Data import FindUEAXy, list_files
 Dataset_Name = 'RacketSports'
 
 # Set the name of the Dataset
-files = list_files(r"C:\PhD\PhD\TSDatasets\Multivariate_arff\\"+Dataset_Name+"\MTSDATA\Train")
-files_test = list_files(r"C:\PhD\PhD\TSDatasets\Multivariate_arff\\"+Dataset_Name+"\MTSDATA\Test")
+files = list_files(r"TSDatasets\\"+Dataset_Name+"\MTSDATA\Train")
+files_test = list_files(r"TSDatasets\\"+Dataset_Name+"\MTSDATA\Test")
 
 X_full, y_true, target = FindUEAXy(files)
 
