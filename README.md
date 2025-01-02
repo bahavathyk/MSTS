@@ -16,4 +16,6 @@ Rocket_knn.py - Runs the knn based MI technique using a Rocket classifier
 
 When using this code, kindly cite the following paper:
 
-Kathirgamanathan, B., Cunningham, P.: Correlation based feature subset selection for multivariate time-series data. arXiv preprint arXiv:2112.03705 (2021) https://arxiv.org/pdf/2112.03705.pdf
+Kathirgamanathan, B., Cunningham, P.: Correlation based feature subset selection f or multivariate time-series data. arXiv preprint arXiv:2112.03705 (2021) https://arxiv.org/pdf/2112.03705.pdf
+
+Kathirgamanathan, Bahavathy and Pádraig Cunningham (2020). “A Feature Selection Method for Multi-dimension Time-Series Data”. In: Advanced Analytics and Learning on Temporal Data. Ed. by Vincent Lemaire et al. Cham: Springer International Publishing, pp. 220–231.
